@@ -1,0 +1,10 @@
+{
+  "id": 175978734,
+  "created_at": "2026-10-27T22:12:34.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["spriyansh.r-universe.dev"]
+}
